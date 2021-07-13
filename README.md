@@ -1,13 +1,9 @@
 ### Hey there! I am Pankaj Bhowmik.
- 
 I have prodigious enthusiasm to explore the contemporary horizon of Computer Science Research fields. Well, I am desperately looking forward to getting connected with all of you guys! 
 Check out my works, feedbacks or any future tips for support will be highly appreciated. 
 See you around.
 
 ![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjbk&hide=prs,issues,contribs?username=pjbk&count_private=true&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjbk&theme=radical)
-
 
 **Sound Language & Tools**
 </br>
