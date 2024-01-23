@@ -5,9 +5,9 @@
     
 <div align = "justify">
     
-I have prodigious enthusiasm to explore the contemporary horizon of Computer Science Research fields. Well, I am desperately looking forward to getting connected with all of you guys! 
+I have prodigious enthusiasm to explore the contemporary horizon of Computer Science Research fields. Well, I am looking forward to getting connected with all of you guys! 
 Check out my works, feedbacks or any future tips for support will be highly appreciated. 
-See you around.
+See you around!
 
 <div align = "center">
 
